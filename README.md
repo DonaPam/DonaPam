@@ -93,7 +93,8 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=donapam&theme=flat&column=3&title=Repositories,Commits,Experience&margin-w=15&no-bg=true" alt="Trophées" />
 </a>
-- 📫 How to reach me **pamela5houessou@gmail.com**
+ 
+<h3 align="left">- 📫 How to reach me :     pamela5houessou@gmail.com</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
