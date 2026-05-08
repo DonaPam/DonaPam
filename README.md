@@ -93,7 +93,9 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=donapam&theme=flat&column=3&title=Repositories,Commits,Experience&margin-w=15&no-bg=true" alt="Trophées" />
 </a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonaPam)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DonaPam)
+
 <h3 align="left">
   - 📫 How to reach me :     pamela5houessou@gmail.com</h3>
 
